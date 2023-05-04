@@ -1,0 +1,28 @@
+
+
+    |\
+    | \                /|    |\
+----|-/--\_-----------/ |----|-\------------------|----------------------||
+    |/ \_ \)         /  |    |  \                 |                      ||
+---/|---\)----------/---|----|---\----------------|----------------------||
+  /_|__    \_      /|   |    |   |\       |    |  |    |    |    |    |  ||
+ //-|--\-\_-\)----//|---|----|---|\\------|----|--|----|----|----|----|--||
+||  |   | \)     // |   |    |   | \\     |    |  |    |    |    |    |  ||
+|-\-|---|-------|/--|---|----|---|--\|----|----|--|----|----|----|----|--||
+ \ \|  /        |   |  _|   _|   |   |   _|   _|  |   _|   _|   _|   _|  ||
+--\-|-/---------|--_|-(_)--(_)--_|---|--(_)--(_)--|--(_)--(_)--(_)--(_)--||
+   -|-         _| (_)   \__/   (_)  _|    |    |       |    |   _|   _|
+   /         -(_)-                -(_)-   |    |     -_|---_|--(_)--(_)
+  O                                      _|   _|     (_)  (_)
+                                       -(_)--(_)-
+
+
+
+While practicing with Barbara Strozzi you gain inspiration
+for a new piece. It’s the perfect piece for your audition! 
+You spend the rest of the day practicing your new piece
+until the dressmakers arrive. Once the dressmakers arrive, 
+to your surprise, the Trader’s wife is there helping her 
+bring in crates of materials to choose from.
+
+*** New Composition Created +1

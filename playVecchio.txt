@@ -1,0 +1,38 @@
+
+                            ,-.
+                           ((o))
+                      _  ,-,,-'
+                     ( `/=//_
+                    _  /=/='_)
+                   ( `/=//_
+                     /=/='_)
+                    /_/ |
+                   / /`.'   
+                  / //       
+                 / //
+                / //
+               / //
+              / / |
+           _ / / -._
+         .' / /     `.
+        /  / /       `-.
+       /  /_/        ' `
+      '             :  '
+     '.       ,-  ,-'.:
+     / /     /.  /  ,-'
+    /  __   7   / /
+ .,'  '  ` '   `._
+ /    |/\|      ,'.
+/ _   _        / ,'
+:' ` | /     ,' /
+`.   |/ _ , ' ,'
+
+Covered in dirt and grime, fresh from the road you go to
+play in front of the room. You unlock your violin and begin
+to play and sing. Once you’ve finished uproarious applause
+thunders throughout the room and Barbara Strozzi steps forward
+saying that you must come with her. Some of the nobles give you 
+coin for your performance as thanks. 
+
+   *** PRESTIGE RAISED 30
+   *** WEALTH RAISED   10

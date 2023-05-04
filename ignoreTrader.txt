@@ -1,0 +1,24 @@
+         __    __
+        /  \  /  \                    [|  |]
+        `~( `' )~'                    (`--')
+           }  {                       : :: :
+          /\  /\                      . .. .
+        .'  `'  `.                     .  .
+       /  .'  `.  \                  : .  . :
+     .'  /      \  `.                .      .
+    /   .'   .  `.   \               . :  : .
+  .'   /     |    \   `.             . :  : .
+ /    .'     .    `.    \            .      .
+/    /       |      \    \           : :  : :
+`~~~~..___   |   __..~~~~'           | .  . |
+   ```"'''                           `~.__.~'
+
+
+
+You pretend you don’t recognize her and you can see 
+her feelings are hurt. You are becoming more like 
+a stuffy noble every day. The dressmaker charges you 
+3 for the dress. 
+
+*** WEALTH DECREASED -3
+*** PRESTIGE INCREASED +10

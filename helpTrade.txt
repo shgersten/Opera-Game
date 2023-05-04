@@ -1,0 +1,40 @@
+                                    +
+                                    |
+                                   ,|,
+                                   |||
+                                  / | \
+                                  | | |
+                                  | | |
+                                 /  |  \
+                                 |  |  |
+                                 |  |   \
+                                /    \  |
+                                |    |  |
+                                |    |   \
+                               /     |   |
+                8              |     |   |
+              ""8""           /      |    \
+                8            /        \   ,\
+              ,d8888888888888|========|="" |
+            ,d"  "88888888888|  ,aa,  |  a |
+          ,d"      "888888888|  8  8  |  8 |
+       ,d8888888b,   "8888888|  8aa8  |  8,|
+     ,d"  "8888888b,   "88888|========|="" |
+   ,d"      "8888888b,   "888|  a  a  |  a |
+ ,d"   ,aa,   "8888888b,   "8|  8  8  |  8,|
+/|    d"  "b    |""""""|     |========|="" |
+ |    8    8    |      |     |  ,aa,  |  a |
+ |    8aaaa8    |      |     |  8  8  |  8 |
+ |              |      |     |  """"  | ,,=| 
+ |aaaaaaaaaaaaaa|======"""""""""""""""""
+
+
+
+She’s grateful for your help and promises 1 coin
+in return. You set off to meet the dressmaker.
+Once there, the dressmaker tells you to deliver
+two crates of fabrics to the Basilica of San Marco
+where she will be helping to outfit some important
+people. On the way there you get hungry. 
+
+*** WEALTH INCREASE +1

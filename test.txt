@@ -1,0 +1,58 @@
+ __        __   _                            _                          
+ \ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___                    
+  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \                   
+   \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) |                  
+  _ \_/\_/ \___|_|\___\___/|_| |_| |_|\___| _\__\___/                   
+ | |_| |__   ___  |  _ \ ___   __ _  __| | | |_ ___                     
+ | __| '_ \ / _ \ | |_) / _ \ / _` |/ _` | | __/ _ \                    
+ | |_| | | |  __/ |  _ < (_) | (_| | (_| | | || (_) |                   
+  \__|_| |_|\___| |_| \_\___/ \__,_|\__,_|  \__\___/                    
+   ___                         ____  _                _                 
+  / _ \ _ __   ___ _ __ __ _  / ___|| |_ __ _ _ __ __| | ___  _ __ ___  
+ | | | | '_ \ / _ \ '__/ _` | \___ \| __/ _` | '__/ _` |/ _ \| '_ ` _ \ 
+ | |_| | |_) |  __/ | | (_| |  ___) | || (_| | | | (_| | (_) | | | | | |
+  \___/| .__/ \___|_|  \__,_| |____/ \__\__,_|_|  \__,_|\___/|_| |_| |_|
+       |_|                                                              
+
+
+                                               /\      /\
+                                               ||______||
+                                               || ^  ^ ||
+                                               \| |  | |/
+                                                |______|
+              __                                |  __  |
+             /  \       ________________________|_/  \_|__
+            / ^^ \     /=========================/ ^^ \===|
+           /  []  \   /=========================/  []  \==|
+          /________\ /=========================/________\=|
+       *  |        |/==========================|        |=|
+      *** | ^^  ^^ |---------------------------| ^^  ^^ |--
+     *****| []  [] |           _____           | []  [] | |
+    *******        |          /_____\          |      * | |
+   *********^^  ^^ |  ^^  ^^  |  |  |  ^^  ^^  |     ***| |
+  ***********]  [] |  []  []  |  |  |  []  []  | ===***** |
+ *************     |         @|__|__|@         |/ |*******|
+***************   ***********--=====--**********| *********
+***************___*********** |=====| **********|***********
+ *************     ********* /=======\ ******** | *********
+
+
+ This is an adventure game. Throughout the story you will be given
+choices. Choose wisely for each choice has consequences. Beware 
+of your prestige, wealth, health, music sheets and dresses. You 
+need all In order to make it in Florence.....
+The year is 1637. You are a young woman named Artemisia Fontana 
+who studied for years under your father, a luthier name Giuseppe 
+in Trento. You’ve always had a gift for singing and composing, a 
+voice so grand your father knew it should be heard by the likes 
+of Venetian nobility. Upon your eighteenth birthday your father 
+has given you 5 scudi and reserved a place with a caravan heading 
+to Venice. You’ve been told that your father once sold a violin to
+the nobleman Filippo Bon of the Bon family to be given to one of 
+his patronees. Filippo Bon lives in the Palazzo Priuli Bon near the 
+newly created Teatro San Cassiano. He’s been in communication with
+him and he says he is looking for the best artists, singers, and 
+composers to expand his menagerie and will be holding auditions in 
+two weeks. You must travel to his home on the Canal Grande in time 
+for the performance. Your bags are packed with your compositions, 
+a violin, some travel meals, and a small coin purse.

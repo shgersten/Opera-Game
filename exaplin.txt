@@ -1,0 +1,36 @@
+
+
+
+            ,'.
+          .'   '.
+      _.-'       '-._
+    .'               '.
+   /                   \
+  |                     |
+   \                   /
+    '-._           _.-'
+   _..._'.       .'_..._
+ .'     '.\     /.'     '.
+/   __    \\   //    __   \
+|  /  `.   \| |/   .'  \  |
+ \ \    \   Y Y   /    / /
+  `-'  ==+=+;=;+=+==  '-`
+         // / \ \\
+     ('-'/ /   \ \'-')
+      '-' (     ) '-'
+           '. .'
+             '
+
+You explain that she and her husband helped you 
+on your journey here and emphasize their kind spirits.
+Barbara Strozzi doesn’t like your close relationship 
+with the lower classes but the dressmaker appreciates 
+your kind words and open mind. The dressmaker decides to
+charge you only 1 for the dress instead fo 3. In recognition
+of your relationship Barbara Strozzi invites her to join
+you at the audition.
+  
+  
+  *** PRESTIGE LOWERED -3
+  *** WEALTH DECREASED -1
+  *** New Dress +1

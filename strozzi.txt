@@ -1,0 +1,43 @@
+                                A
+                                / \
+                               /   \
+              A               <_____>
+             / \            _ _|_\157_|_ _
+            /   \           ]=I=I=I=I=[
+           <_____>           \-|-|-|-/
+         _ _|_\157_|_ _          |     |
+         ]=I=I=I=I=[         _|_ _  |            A
+          \-|-|-|-/          ]=I=[  |      A    / \
+           |     |    A       \|/   |     / \  /   \
+           |     |   / \      |Y    |    /   \<_____>
+           | /^\ |  /   \     |     |   <_____>|   |
+           | | | | <_____>    | []  | _ _|_\157_|_|   |
+           | |_| |  |   |     |     | ]=I=I=I=I|   |
+           |     | _|_\157_|_ _  |     |  \-|-|_ _|_\157_|_ _
+           |     |=I=I=I=I=[  |  [] |       ]=I=I=I=I=[
+        _ _|_ _ _|_-_-|-|-/_ _|_ _ _|_ /^\   \-|-|-|-/
+        ]=I=I=I=I=I=[    | ]=I=I=I=I=I=|O|    |     |
+         \-|-|-|-|-/     |  \-\-|-|-/-/ \|    | /^\ |
+          |    [] | _ _ _|_ _|  _____|_ |     | | | |
+          | []    |=I=I=I=I=[| /vvvvvvv\|     | === |
+       _ _|_ _ _ _|_-_-|-|-/ |/vvvvvvvvv\     |     |
+       ]=I=I=I=I=I=I=[    |  <===========> _ _|_ _ _|_ _
+        \-\--|-|--/-/     |  || []   [] |  ]=I=I=I=I=I=[
+         |         | _ _ _|_ ||_ _ _ _ _|_ _\--|-|-|--/
+         |         |=I=I=I=I=I=I=I=I=I=I=I=I=|       |
+         | []      |-=-=-=-=-=-=-=-=-=-=-=-=-|     []|
+         |         |           ___           |       |
+         |         |          /   \          |       |
+         |         |         |     |         |       |
+       _/|         |\_       |     |       _/|       |\_
+
+
+You and Richard Lassels arrive at the Palazzo Strozzi 
+and discover the Accademia degli Incogniti. Giovanni Francesco 
+Loredan spots his acquaintance and walks over to say hello. Richard 
+Lassels introduces you to Loredan who winks at Lassels and loudly 
+remarks that a woman of such youth and beauty must have performed 
+for Lassels some private Cantatas throughout the journey. The others
+gathered around laugh at the ribald remark and scandalous inference.  
+
+*** PRESTIGE DECREASED -10

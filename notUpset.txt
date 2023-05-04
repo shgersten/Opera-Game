@@ -1,0 +1,40 @@
+  ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___   
+|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___| 
+  
+
+                            ,-.
+                           ((o))
+                      _  ,-,,-'
+                     ( `/=//_
+                    _  /=/='_)
+                   ( `/=//_
+                     /=/='_)
+                    /_/ |
+                   / /`.'   
+                  / //       
+                 / //
+                / //
+               / //
+              / / |
+           _ / / -._
+         .' / /     `.
+        /  / /       `-.
+       /  /_/        ' `
+      '             :  '
+     '.       ,-  ,-'.:
+     / /     /.  /  ,-'
+    /  __   7   / /
+ .,'  '  ` '   `._
+ /    |/\|      ,'.
+/ _   _        / ,'
+:' ` | /     ,' /
+`.   |/ _ , ' ,'
+   ---""__ ,-'
+You've been practicing every day and composed a new piece!
+On the second day of travel, your caravan crosses paths with a man
+named Richard Lassels, a roman catholic priest and travel writer. He 
+decides to join your caravan for the rest of the journey to the Grand 
+Canal. He hears you playing whilst singing and upon learning that you 
+are playing an original composition, inquires about your past. 
+
+*** NEW PIECE COMPOSED +1
