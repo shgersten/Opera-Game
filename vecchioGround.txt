@@ -1,0 +1,20 @@
+
+        __________
+       1          1
+       1          1
+       1          1
+  ____ 1     ____ 1
+ /    \1    /    \1
+1      1   1      1
+ \____/     \____/
+
+
+
+You stand your ground ground in this roomful of 
+powerful and influential people laughing at you trying
+to save your dignity. At Richard Lassels silence and 
+their continued laughter you burst into tears and run  
+out of the room.  As you run out of 
+the palace a voice calls out for you to wait.
+
+*** PRESTIGE LOWERED -10 

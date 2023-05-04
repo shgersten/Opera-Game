@@ -1,0 +1,51 @@
+                                      .
+                                    .' '.
+                                  .'  |  `.
+                                .'    |    `.
+                              .`---.._|_..---'.
+                               ||    |=|    ||
+                               ||_.-'|=|`-._||
+                               ||`-._|=|_.-'||
+                          _____||    |=|    ||__
+            ____________.'     `-.   |=|  .'_.'\/`.
+          .'       _  .' _______  `-.|_|.' .'\.'`./`.
+        .'     _   _.'      _   _        .'\.' `._`./`.
+      .' _       _.' __          __    .'\.'  ___`._`./`.
+    .'        _ .'   _____           .'\.'         `._`./`.
+  .'  _  _    .'       ______      .'\.'  __         `._`./`.
+.'`--...__ _.'            ______ .'\.'           __    `._`./`.
+ `--...__ .'   ____            .'\.'           _         `._`./`.
+ |      .`--...__            .'\.'     _               ____`._`./`.
+ | /`-._ `--...__`--...___ .'\.'              _______       _`._`./`.
+ | | ) ( |       `--...____\.'     _     _  .'      .`.        `._`./
+ | |)   (| /`-._             |            .'      .'   `.     _ |
+ | |(--| | | )( |  /`-._`--._|____       /      .'       `.     |
+ | | ) `.| |(  )|  | )( |    | _      _ /      /   .---.  `\    |
+ | `--._ | |/  \|  |(  )|`-  |         /`--.._/   /     \  ' _  |
+ | `-.   | |)-.(|  |/  \|    |       __|      |_  |`-   |  |  _ |
+ |    `-.| |) |(|  |)-.(|    |  ___  _ |  __  | __| \`- |  |    |
+ '-._    | `--._/  |) |(|    |      __ |      |   | |`- |  | _  |
+     `-._| `--.    `--._/    |  ___    | _    |   | |`- |  |   '|
+         |      `--._        |       _ |    ' |   |O|`- | _| _  |
+         '--._         `--._ |         | _    |_ "| |`- |. |  __|
+              `--._          |       __|      |   | |`- |. | __ |
+                   `--._     |__       |   _  |"  | |`- |  |___ |
+                        `--._|_________|_     | _ |  `- |_ |____|
+                                         '--._|___|     |__|
+
+
+
+Once the whole caravan has arrived you, the tradeswoman,
+and her husband all sit down for a meal with everyone else in 
+a crowded inn. You have a feeling this crowd might be ripe for a song. 
+You grab your instrument from upstairs and begin performing a cantata
+inspired by the city in the busy inn. After your performance everyone 
+applauds and some money comes your way. A young man comes up and 
+introduces himself as Marco Fidelli, a footman for the Francesco Tron.
+He loved your performance and insists that you come with him. His
+master is getting his portrait taken with Ettore Tron and he believes
+some good music would do wonders. 
+    
+    *** NEW COMPOSITION +1
+    *** PRESTIGE INCREASED +10 
+    *** WEALTH INCREASED +5
